@@ -1,3 +1,4 @@
+// Author:CT101/G/24020/24 Tony kiprop
 // 1d array c programme
 #include <stdio.h>
 int main() {
